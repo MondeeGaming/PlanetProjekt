@@ -1,6 +1,7 @@
 /* FREDRIKS CSS FILE */
 
 .nav-bar {
-    background-color: rgba(0, 0, 0, 0.349);
+    border:hidden;
     height: 100px;
+    backdrop-filter:blur(5px);
 }
