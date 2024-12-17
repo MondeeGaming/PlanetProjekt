@@ -9,7 +9,20 @@ html {
     scroll-behavior: smooth; 
 
     }
+    /*::webkit-scrollbar is used to tell the browser that the code is changing something with the bar*/
     body::-webkit-scrollbar {
         display:none;
+    }
+
+    .info-section{
+        border:1px,red,dotted;
+    }
+    .neptune-section{
+        border:1px,blue,solid;
+    }
+
+    a {
+        color:darkgrey;
+        text-decoration: none;
     }
     
