@@ -1,2 +1,6 @@
 /* FREDRIKS CSS FILE */
 
+.nav-bar {
+    background-color: rgba(0, 0, 0, 0.349);
+    height: 100px;
+}
