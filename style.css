@@ -3,6 +3,8 @@ body{
     background-size: 100%;
     font-family: 'Berlin Sans FB Demi';
     color:lightgrey;
+    background-repeat: none;
+    background-attachment: fixed;
 }
 html { 
     scroll-behavior: smooth; 
@@ -11,6 +13,7 @@ html {
     /*::webkit-scrollbar is used to tell the browser that the code is changing something with the bar*/
     body::-webkit-scrollbar {
         display:none;
+        
     }
 
     .info-section{
@@ -28,20 +31,7 @@ html {
     }
 
     .wrap{
-        width:370px;
-        height:390px;
-        overflow:hidden;
         max-width:75%;
-        object-fit: contain;
-        border-radius: 100%;
-        image-resolution: 20%;
-        margin-left:86%;
     }
-    #Neptune{
-        height:400px;
-        object-position: -50%;
-        margin-left:-20%;
-        margin-top:-10%;
-        box-shadow: 20px;
-    }
+    
 
