@@ -1,6 +1,15 @@
-/* JUSTINS CSS FILE */
 body{
     background-image:url(images/pexels-krisof-1252890.jpg);
     background-size: 100%;
+    font-family: 'Space Grotesk';
+    color:lightgrey;
     
 }
+html { 
+    scroll-behavior: smooth; 
+
+    }
+    body::-webkit-scrollbar {
+        display:none;
+    }
+    
