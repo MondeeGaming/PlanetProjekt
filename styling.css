@@ -8,7 +8,6 @@
     align-items: center;
     border:hidden;
     height: 100px;
-    /* backdrop-filter:blur(2px); */
     flex-direction: row;
 }
 
@@ -36,4 +35,6 @@ hr {
     opacity: 65%;
     width: 90%;
 }
+
+
 
