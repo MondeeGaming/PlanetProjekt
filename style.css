@@ -17,12 +17,15 @@ html {
     }
 
     .info-section{
-        border:1px,rgb(59, 11, 136),dotted;
+        
         max-width:75%;
         
     }
     .neptune-section{
-        border:1px,blue,solid;
+       
+        max-width:75%;
+        margin-left:10%;
+        max-height:100%;
     }
 
     a {
@@ -31,7 +34,21 @@ html {
     }
 
     .wrap{
-        max-width:75%;
+        max-width:65%;
+        margin-left:-5%;
+        width:55%;
+        
     }
-    
+    #Neptunetext{
+        
+        max-width:50%;
+        margin-left:51%;
+        margin-top:-30%;
+        font-size:30px;
+        
+    }
+
+    #NeptuneTexting{
+        font-size:25px;
+    }
 
