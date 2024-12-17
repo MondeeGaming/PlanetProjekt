@@ -3,6 +3,8 @@ body{
     background-size: 100%;
     font-family: 'Berlin Sans FB Demi';
     color:lightgrey;
+    background-repeat: none;
+    background-attachment: fixed;
 }
 html { 
     scroll-behavior: smooth; 
@@ -11,6 +13,7 @@ html {
     /*::webkit-scrollbar is used to tell the browser that the code is changing something with the bar*/
     body::-webkit-scrollbar {
         display:none;
+        
     }
 
     .info-section{
@@ -28,5 +31,7 @@ html {
     }
 
     .wrap{
-        max-width:50%;
+        max-width:75%;
     }
+    
+
