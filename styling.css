@@ -1,5 +1,7 @@
 /* FREDRIKS CSS FILE */
 
+
+/* Navigation bar with logo */
 .nav-bar {
     display: flex;
     justify-content: center;
@@ -26,3 +28,12 @@
 .nav-bar a:hover {
     color: rgb(73, 100, 122);
 }
+
+/* Info Section */
+hr {
+    margin-block: 128px;
+    color: white;
+    opacity: 65%;
+    width: 90%;
+}
+
