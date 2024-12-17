@@ -15,17 +15,19 @@ html {
 
     .info-section{
         border:1px,red,dotted;
+        max-width:75%;
+        
     }
     .neptune-section{
         border:1px,blue,solid;
+        max-width:75%;
     }
 
     a {
         color:darkgrey;
         text-decoration: none;
     }
-<<<<<<< Updated upstream
-=======
+
     .wrap{
         width:370px;
         height:390px;
@@ -44,5 +46,3 @@ html {
         box-shadow: 20px;
     }
 
->>>>>>> Stashed changes
-    
