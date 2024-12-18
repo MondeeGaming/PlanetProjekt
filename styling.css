@@ -76,3 +76,23 @@ hr {
     margin: 0;
     width: 500px;
 }
+
+
+/* Footer */
+
+footer {
+    display: flex;
+    margin: auto;
+    background-image:url(images/sun.png);
+    background-position: center; 
+    background-position: bottom; 
+    background-position: right top; 
+    background-position: 50% 4%;
+    height: 400px;
+}
+
+footer p {
+    margin: auto;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
